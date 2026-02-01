@@ -129,7 +129,7 @@ Generated outputs are saved in:
 
 2. Place input images in `task_images/` named `1.png` to `10.png`. (can change this as well, but would need to modify a few things accordingly)
 
-3. Run:
+3. Run: search_and_rescue.py 
 
 4. Outputs will be generated automatically.
 
